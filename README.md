@@ -7,7 +7,7 @@ pip install scrapy
 ```python
 scrapy crawl products
 ```
-Json output
+json output
 ```python
 scrapy crawl products -o product.json
 ```
