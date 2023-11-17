@@ -1,5 +1,5 @@
 # rei
-## installation
+## Installation
 ```
 pip install scrapy
 ```
