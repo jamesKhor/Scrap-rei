@@ -11,8 +11,8 @@ scrapy crawl products -o product.csv
 ```
 ## Configuration
 Modify URLs, and Domains spiders/products.py
-!! Item loaders class must matches the css selector and elements id, or class name !!
-!! Rule, link extractor have to matches the URI, URL. The syntax have to be tuple.  !!
+- Item loaders class must matches the css selector and elements id, or class name
+- Rule, link extractor have to matches the URI, URL. The syntax have to be tuple.
 
 ## Notes
 on terminal 
