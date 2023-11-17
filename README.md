@@ -4,9 +4,15 @@
 pip install scrapy
 ```
 ## Running
+```python
+scrapy crawl products
 ```
+Json output
+```python
 scrapy crawl products -o product.json
-OR
+```
+CSV output
+```python
 scrapy crawl products -o product.csv
 ```
 ## Configuration
