@@ -1,7 +1,8 @@
-# The follow script make use of scrapy to scape product information from site.
+# The follow script make use of scrapy to scrap product information from site.
 ## Installation
 ```
 pip install scrapy
+pip3 install scrapy
 ```
 ## Running
 ```python
